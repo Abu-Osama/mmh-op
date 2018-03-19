@@ -7,7 +7,25 @@
 		<key>MMhoperator.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5BC5FDBC203E88D200A0FC3A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5BC5FDD3203E88D200A0FC3A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5BC5FDDE203E88D200A0FC3A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
